@@ -1,0 +1,2 @@
+
+Binary Code Breaker is a game in which the player must guess a four-digit code made up of 1's and 0's. The player submits a guess by entering the four digits. After the player enters their guess, the program shows how many digits matched the secret code. If the player guesses the complete four-digit code in five or fewer guess, they win otherwise it's game over. 
