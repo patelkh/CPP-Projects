@@ -5,3 +5,58 @@ The questions for an episode are stored in a separate file, independent of the g
 
 This program focuses on the following c++ topics:
 - files and streams
+
+Demo: 
+Welcome to Trivia Challenge!
+
+Correctly answer as many questions as possible
+You earn 1,000 points for each question you answer correctly.
+
+Get ready to play...Science & Nature Trivia
+
+Question: Which of these bones is hardest to break?
+1 - Cranium
+2 - Femur
+3 - Humerus
+4 - Tibia
+Enter your choice: 2
+
+Correct!
+
+Question: Which element has the chemical symbol Fe?
+1 - Gold
+2 - Silver
+3 - Tin
+4 - Iron
+Enter your choice: 4
+
+Correct!
+
+Question: What is the powerhouse of the Eukaryotic animal cell?
+1 - Mitochondria
+2 - Nucleus
+3 - Chloroplast
+4 - Endoplasmic Reticulum
+Enter your choice: 3
+
+Wrong!
+
+Question: How many planets are there in our Solar System?
+1 - Seven
+2 - Eight
+3 - Nine
+4 - Ten
+Enter your choice: 2
+
+Correct!
+
+Question: Which gas forms about 78% of the Earth's atmosphere?
+1 - Oxygen
+2 - Argon
+3 - Carbon Dioxide
+4 - Nitrogen
+Enter your choice: 4
+
+Correct!
+
+Your final score is 4000.
